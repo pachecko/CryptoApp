@@ -12,7 +12,8 @@ namespace CryptoApp.Util
 {
     class CryptCls
     {
-
+        //prueba
+        //Prueba dos
         /// <summary>
         /// Cifra una cadena de texto con el algoritmo Rijndael
         /// </summary>
