@@ -1,0 +1,10 @@
+C:\Users\jcpachecof.CORPO\Documents\Visual Studio 2017\Projects\CryptoApp\CryptoApp\bin\Debug\CryptoApp.exe.config
+C:\Users\jcpachecof.CORPO\Documents\Visual Studio 2017\Projects\CryptoApp\CryptoApp\bin\Debug\CryptoApp.exe
+C:\Users\jcpachecof.CORPO\Documents\Visual Studio 2017\Projects\CryptoApp\CryptoApp\bin\Debug\CryptoApp.pdb
+C:\Users\jcpachecof.CORPO\Documents\Visual Studio 2017\Projects\CryptoApp\CryptoApp\obj\Debug\CryptoApp.csprojResolveAssemblyReference.cache
+C:\Users\jcpachecof.CORPO\Documents\Visual Studio 2017\Projects\CryptoApp\CryptoApp\obj\Debug\CryptoApp.CryptFrm.resources
+C:\Users\jcpachecof.CORPO\Documents\Visual Studio 2017\Projects\CryptoApp\CryptoApp\obj\Debug\CryptoApp.Properties.Resources.resources
+C:\Users\jcpachecof.CORPO\Documents\Visual Studio 2017\Projects\CryptoApp\CryptoApp\obj\Debug\CryptoApp.csproj.GenerateResource.cache
+C:\Users\jcpachecof.CORPO\Documents\Visual Studio 2017\Projects\CryptoApp\CryptoApp\obj\Debug\CryptoApp.csproj.CoreCompileInputs.cache
+C:\Users\jcpachecof.CORPO\Documents\Visual Studio 2017\Projects\CryptoApp\CryptoApp\obj\Debug\CryptoApp.exe
+C:\Users\jcpachecof.CORPO\Documents\Visual Studio 2017\Projects\CryptoApp\CryptoApp\obj\Debug\CryptoApp.pdb
