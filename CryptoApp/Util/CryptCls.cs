@@ -85,17 +85,7 @@ namespace CryptoApp.Util
             int keySize = 32;
             int ivSize = 16;
 
-			//Para contraseña del correo en el Portal Trabaja con nosotros
-			/*
-            byte[] key = UTF8Encoding.UTF8.GetBytes("G4ndH1");//Clave de cifrado para el algoritmo
-            byte[] iv = UTF8Encoding.UTF8.GetBytes("St4ffp1ck");//Vector de inicio para el algoritmo						
-			*/
-
-			//Para contraseña del usuario en el SW ConsultaPedidosGcom
-			/*
-			byte[] key = UTF8Encoding.UTF8.GetBytes("G4ndH1");//Clave de cifrado para el algoritmo
-			byte[] iv = UTF8Encoding.UTF8.GetBytes("G4ndH1C0m5w");//Vector de inicio para el algoritmo
-			*/
+			
 			string keyEncode = ConfigurationManager.AppSettings["Key.encode"].ToString();
 			string vectorStart = ConfigurationManager.AppSettings["Vector.start"].ToString();
 			byte[] key = UTF8Encoding.UTF8.GetBytes(keyEncode);//Clave de cifrado para el algoritmo
