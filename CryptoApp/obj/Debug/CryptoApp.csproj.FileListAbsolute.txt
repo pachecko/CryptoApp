@@ -8,3 +8,6 @@ C:\Users\jcpachecof.CORPO\Documents\Visual Studio 2017\Projects\CryptoApp\Crypto
 C:\Users\jcpachecof.CORPO\Documents\Visual Studio 2017\Projects\CryptoApp\CryptoApp\obj\Debug\CryptoApp.csproj.CoreCompileInputs.cache
 C:\Users\jcpachecof.CORPO\Documents\Visual Studio 2017\Projects\CryptoApp\CryptoApp\obj\Debug\CryptoApp.exe
 C:\Users\jcpachecof.CORPO\Documents\Visual Studio 2017\Projects\CryptoApp\CryptoApp\obj\Debug\CryptoApp.pdb
+C:\Users\dgaliciag\Documents\GitRepo\VS2015\CryptoApp\bin\Debug\CryptoApp.exe.config
+C:\Users\dgaliciag\Documents\GitRepo\VS2015\CryptoApp\obj\Debug\CryptoApp.exe
+C:\Users\dgaliciag\Documents\GitRepo\VS2015\CryptoApp\obj\Debug\CryptoApp.pdb
