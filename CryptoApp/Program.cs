@@ -17,7 +17,7 @@ namespace CryptoApp
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new CryptFrm());
-            //Cambio
+            //Cambio 222
         }
     }
 }
