@@ -12,13 +12,14 @@ namespace CryptoApp
         /// The main entry point for the application.
         /// SDASDSDSDSAD
         /// </summary>
-        [STAThread]
+        [STAThread] 
         static void Main()
         {
             Application.EnableVisualStyles();
-            Application.SetCompatibleTextRenderingDefault(false);
+            Application.SetCompatibleTextRenderingDefault(false); 
             Application.Run(new CryptFrm());
             //Cambio 222
+            //Cambio #333
         }
     }
 }
