@@ -10,8 +10,8 @@ namespace CryptoApp
     {
         /// <summary>
         /// The main entry point for the application.
+        /// SDASDSDSDSAD
         /// </summary>
-        /// PREUEBBASJASAJSDHSICKJCD
         [STAThread]
         static void Main()
         {
