@@ -11,7 +11,7 @@ namespace CryptoApp
         /// <summary>
         /// The main entry point for the application.
         /// SDASDSDSDSADFSEWFFFEFWEFDEWFEWFEWFE
-        /// FERFEWFEWFEW
+        /// FERFEWFEWFEWjhkjhkj
         /// </summary>
         [STAThread] 
         static void Main()
